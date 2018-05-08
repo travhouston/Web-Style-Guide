@@ -47,7 +47,7 @@
         }
     }
     @else {
-        @error "No value could be retrieved for #{$break}";
+        @error "No value was found for #{$break}";
     }
 }
 
